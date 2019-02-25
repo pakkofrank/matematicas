@@ -1,0 +1,75 @@
+h1 {
+    color:white;
+}
+h4{
+    color:white;
+}
+.hh5{
+    color:white;
+}
+
+.body{
+    margin: auto;
+    margin-top:0px;
+    width: 100%;
+    height: 100%;
+    border: 1px solid black;
+    
+}
+
+.izquierda{
+    width: 10%;
+    height: 650px;
+    background-color: rgba(0, 0, 0);
+    float: left;
+
+
+}
+.centro2{
+    width: 40%;
+    height: 650px;
+    background-color: rgba(39, 8, 114, 0.6);
+    float: left;
+
+
+}
+.centro{
+    width: 40%;
+    height: 650px;
+    background-color:rgba( 240, 51, 255, 0.5 );
+    float: left;
+    
+
+}
+.derecha{
+    width: 10%;
+    height: 650px;
+    background-color: rgba(0, 0, 0);
+    float: left;
+    
+
+}
+.fondon{
+    background-image:url(https://images7.alphacoders.com/320/320344.png);
+}
+.mamalon {
+    background-color: rgba(0, 0, 0, 0.4);
+    color: white;
+   
+}
+
+
+#otros{
+    background-image:url(imagenes/fondowaifu.gif);
+	background-size:cover;
+
+}
+.arriba{
+    width: 100%;
+    height: 50px;
+    background-color: rgba(0, 0, 0, 0.6);
+    float: left;
+    color: white;
+
+
+}
